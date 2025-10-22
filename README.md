@@ -51,4 +51,4 @@ Some improvements could be added in the future. For example:
 
 ## 💭 Feedback and Contributing
 
-You can open bugs/feature requests for this project. Any idea to improve is code is welcome! 
+You can open bugs/feature requests for this project. Any idea to improve the code is welcome! 
